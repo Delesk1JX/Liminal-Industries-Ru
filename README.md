@@ -1,4 +1,4 @@
-Информация: Перевод квестов модпака Liminal Industries Ссылка на сам [модпак](https://www.curseforge.com/minecraft/modpacks/liminal-industries)
+Информация: Перевод квестов модпака Liminal Industries (1.16.1+) Ссылка на сам [модпак](https://www.curseforge.com/minecraft/modpacks/liminal-industries)
 
 Установка: Пример для Prism Launcher:
 
