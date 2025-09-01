@@ -7,3 +7,9 @@
 После запустите игру и проверьте работу перевода.
 
 Если найдёте какие-то ошибки, можете сообщить о них мне в дискорд:narik_20
+
+Для перевода модов использовал:
+
+[AE2 Guide - Russian Localization](https://modrinth.com/resourcepack/ae2-guide-russian-localization)
+
+[RTF Extension](https://modrinth.com/resourcepack/rtf-extension)
