@@ -13,3 +13,11 @@
 [AE2 Guide Book-Ru](https://github.com/DygDyg/ae2guide-ru?tab=readme-ov-file)
 
 [RTF Extension](https://modrinth.com/resourcepack/rtf-extension)
+
+В переводе помогали:
+
+ХайТек
+
+Ghouluw
+
+You fool
